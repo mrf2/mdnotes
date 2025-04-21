@@ -1,1 +1,7 @@
 > - For vertical scroll bar to left
+* - is used for italic text
+** - is used for bold text
+<sup> - is used for superscript [Tis is html tag]
+<sub> - is used for subscript [This is html tag]
+$^{your text}$ - is used for superscript [Not worked fog Github flavoured MD]
+$_{more text}$ - is used for subscript [Not worked fog Github flavoured MD]
